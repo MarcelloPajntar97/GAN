@@ -1,1 +1,1 @@
-## Simple StyleGan2 for Pytorch
+## Simple StyleGan2 for Python, Pytorch

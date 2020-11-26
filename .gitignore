@@ -10,6 +10,7 @@ small_train/*
 flower_shoes_nomix/*
 flower_shoes_mix/*
 landscapes_shoes/*
+.github/*
 # C extensions
 *.so
 
