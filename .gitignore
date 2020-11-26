@@ -2,7 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data/*
+data_shoes/*
+results/*
+models/*
+small_train/*
+flower_shoes_nomix/*
+flower_shoes_mix/*
+landscapes_shoes/*
 # C extensions
 *.so
 
