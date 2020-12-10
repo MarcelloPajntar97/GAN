@@ -11,6 +11,7 @@ flower_shoes_nomix/*
 flower_shoes_mix/*
 landscapes_shoes/*
 .github/*
+flowers/*
 # C extensions
 *.so
 
